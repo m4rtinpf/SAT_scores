@@ -1,5 +1,5 @@
 # SAT_scores
--
+
 # Introduction
 ## Purpose
 The purpose of this notebook is to make a portfolio project to showcase some basic data science skills.
